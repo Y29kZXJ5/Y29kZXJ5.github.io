@@ -1,2 +1,4 @@
 title: Codery
 theme: minima
+
+permalink: /:categories/:title
